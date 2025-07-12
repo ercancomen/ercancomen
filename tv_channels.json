@@ -1,26 +1,74 @@
 [
   {
-    "name": "TRT Haber",
-    "streamUrl": "https://tv-trt1-live.trtcdn.com/trthaber.m3u8"
-  },
-  {
-    "name": "TRT Çocuk",
-    "streamUrl": "https://tv-trt1-live.trtcdn.com/trtcocuk.m3u8"
-  },
-  {
-    "name": "TRT Spor",
-    "streamUrl": "https://tv-trt1-live.trtcdn.com/trtspor.m3u8"
-  },
-  {
     "name": "TRT 1",
     "streamUrl": "https://tv-trt1.live.trt.com.tr/master.m3u8"
+  },
+  {
+    "name": "TRT Haber",
+    "streamUrl": "https://tv-trt1-live.trtcdn.com/trthaber.m3u8"
   },
   {
     "name": "TRT Belgesel",
     "streamUrl": "https://tv-trt1-live.trtcdn.com/trtbelgesel.m3u8"
   },
   {
-    "name": "Deneme",
+    "name": "TRT Spor",
+    "streamUrl": "https://tv-trt1-live.trtcdn.com/trtspor.m3u8"
+  },
+  {
+    "name": "TRT Çocuk",
+    "streamUrl": "https://tv-trt1-live.trtcdn.com/trtcocuk.m3u8"
+  },
+  {
+    "name": "TRT Türk",
+    "streamUrl": "https://tv-trt1-live.trtcdn.com/trtturk.m3u8"
+  },
+  {
+    "name": "TRT Müzik",
+    "streamUrl": "https://tv-trt1-live.trtcdn.com/trtmuzik.m3u8"
+  },
+  {
+    "name": "Bloomberg HT",
+    "streamUrl": "https://livecdn.fibertv.com.tr/bloomberght/bloomberght.m3u8"
+  },
+  {
+    "name": "TV 8.5",
+    "streamUrl": "https://tv8.5playout.mncdn.com/tv8.5/tv8.5.m3u8"
+  },
+  {
+    "name": "TV 24",
+    "streamUrl": "https://tv24hls.ercdn.net/tv24tv/bant1/playlist.m3u8"
+  },
+  {
+    "name": "NTV",
+    "streamUrl": "https://ntv-ntv-live.mytvlink.xyz/index.m3u8"
+  },
+  {
+    "name": "Kanal 7",
+    "streamUrl": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8"
+  },
+  {
+    "name": "A Haber",
+    "streamUrl": "https://turkmedya-live.ercdn.net/ahaber/ahaber.m3u8"
+  },
+  {
+    "name": "Euronews Türkçe",
+    "streamUrl": "https://rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "NASA TV",
+    "streamUrl": "https://iphone-streaming.ustream.tv/uhls/6540154/streams/live.m3u8"
+  },
+  {
+    "name": "DW (Deutsche Welle)",
+    "streamUrl": "https://dwamdstream102.akamaized.net/hls/live/2015530/dwstream102/stream05/streamPlaylist.m3u8"
+  },
+  {
+    "name": "France 24",
+    "streamUrl": "https://f24hls-i.akamaihd.net/hls/live/520631/f24_hls_en_high_akamai/index.m3u8"
+  },
+  {
+    "name": "Sintel Demo",
     "streamUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
   }
 ]
