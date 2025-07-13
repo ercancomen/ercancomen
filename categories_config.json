@@ -1,48 +1,18 @@
-[
-          {
-            "id": "sinema",
-            "title": "Sinema",
-            "data_url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/sinema_channels.json"
-          },
-          {
-            "id": "derbiler",
-            "title": "Derbiler",
-            "data_url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/derbiler_channels.json"
-          },
-          {
-            "id": "yerli_sinema",
-            "title": "Yerli Sinema",
-            "data_url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/yerli_sinema_channels.json"
-          },
-          {
-            "id": "yabanci_sinema",
-            "title": "Yabancı Sinema",
-            "data_url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/yabanci_sinema_channels.json"
-          },
-          {
-            "id": "cocuk",
-            "title": "Çocuk",
-            "data_url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/cocuk_channels.json"
-          },
-          {
-            "id": "dizi",
-            "title": "Dizi",
-            "data_url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/dizi_channels.json"
-          },
-          {
-            "id": "max",
-            "title": "Max",
-            "data_url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/max_channels.json"
-          },
-          {
-            "id": "netflix",
-            "title": "Netflix",
-            "data_url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/netflix_channels.json"
-          },
-          {
-            "id": "tabii",
-            "title": "Tabii",
-            "data_url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/tabii_channels.json"
-          }
-
-        ]
+{
+  "categories": [
+    {
+      "name": "Aksiyon",
+      "movies": [
+        { "title": "Film 1", "url": "https://example.com/film1.mp4" },
+        { "title": "Film 2", "url": "https://example.com/film2.mp4" }
+      ]
+    },
+    {
+      "name": "Dram",
+      "movies": [
+        { "title": "Film 3", "url": "https://example.com/film3.mp4" },
+        { "title": "Film 4", "url": "https://example.com/film4.mp4" }
+      ]
+    }
+  ]
+}
