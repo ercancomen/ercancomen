@@ -1,0 +1,12 @@
+[
+      {
+        "name": "FilmBox HD",
+        "logo": "https://example.com/filmbox_logo.png",
+        "url": "http://stream.example.com/filmbox"
+      },
+      {
+        "name": "Sinema TV",
+        "logo": "https://example.com/sinematv_logo.png",
+        "url": "http://stream.example.com/sinematv"
+      }
+    ]
