@@ -9,19 +9,6 @@
       {
         "title": "Yabancı",
         "url": "https://raw.githubusercontent.com/kullanici/repo/yabanci.json"
-      },
-      {
-        "title": "Netflix",
-        "url": "https://raw.githubusercontent.com/kullanici/repo/netflix.json"
-      }
-    ]
-  },
-  {
-    "name": "Dizi",
-    "tabs": [
-      {
-        "title": "Yerli Diziler",
-        "url": "https://raw.githubusercontent.com/kullanici/repo/yerli_dizi.json"
       }
     ]
   }
