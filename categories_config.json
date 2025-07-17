@@ -12,12 +12,7 @@
       }
     ]
   },
-  {
-        "title": "Deneme",
-        "url": "https://raw.githubusercontent.com/ercancomen/repo/deneme.json"
-      }
-    ]
-  },
+  
   {
     "name": "Dizi",
     "tabs": [
@@ -31,6 +26,14 @@
       }
     ]
   },
+
+   {
+    "name": "Dizi",
+    "tabs": [
+      {
+        "title": "Komedi",
+        "url": "https://raw.githubusercontent.com/ercancomen/repo/komedi.json"
+      },
   {
     "name": "Çocuk",
     "tabs": [
