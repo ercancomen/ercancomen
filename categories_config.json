@@ -4,11 +4,11 @@
     "tabs": [
       {
         "title": "Yerli",
-        "url": "https://raw.githubusercontent.com/kullanici/repo/yerli.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/repo/yerli.json"
       },
       {
         "title": "Yabancı",
-        "url": "https://raw.githubusercontent.com/kullanici/repo/yabanci.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/repo/yabanci.json"
       }
     ]
   },
@@ -17,11 +17,11 @@
     "tabs": [
       {
         "title": "Komedi",
-        "url": "https://raw.githubusercontent.com/kullanici/repo/komedi.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/repo/komedi.json"
       },
       {
         "title": "Dram",
-        "url": "https://raw.githubusercontent.com/kullanici/repo/dram.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/repo/dram.json"
       }
     ]
   },
@@ -30,11 +30,11 @@
     "tabs": [
       {
         "title": "Çizgi Filmler",
-        "url": "https://raw.githubusercontent.com/kullanici/repo/cizgifilmler.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/repo/cizgifilmler.json"
       },
       {
         "title": "Eğitici",
-        "url": "https://raw.githubusercontent.com/kullanici/repo/egitici.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/repo/egitici.json"
       }
     ]
   }
