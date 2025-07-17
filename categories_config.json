@@ -9,10 +9,21 @@
       {
         "title": "Yabancı",
         "url": "https://raw.githubusercontent.com/ercancomen/repo/yabanci.json"
+      },
+      {
+        "title": "Aksiyon",
+        "url": "https://raw.githubusercontent.com/ercancomen/repo/aksiyon.json"
+      },
+      {
+        "title": "Romantik",
+        "url": "https://raw.githubusercontent.com/ercancomen/repo/romantik.json"
+      },
+      {
+        "title": "Bilim Kurgu",
+        "url": "https://raw.githubusercontent.com/ercancomen/repo/bilimkurgu.json"
       }
     ]
   },
-  
   {
     "name": "Dizi",
     "tabs": [
@@ -23,6 +34,18 @@
       {
         "title": "Dram",
         "url": "https://raw.githubusercontent.com/ercancomen/repo/dram.json"
+      },
+      {
+        "title": "Polisiye",
+        "url": "https://raw.githubusercontent.com/ercancomen/repo/polisiye.json"
+      },
+      {
+        "title": "Fantastik",
+        "url": "https://raw.githubusercontent.com/ercancomen/repo/fantastik.json"
+      },
+      {
+        "title": "Belgesel",
+        "url": "https://raw.githubusercontent.com/ercancomen/repo/belgesel.json"
       }
     ]
   },
@@ -36,9 +59,40 @@
       {
         "title": "Eğitici",
         "url": "https://raw.githubusercontent.com/ercancomen/repo/egitici.json"
+      },
+      {
+        "title": "Macera",
+        "url": "https://raw.githubusercontent.com/ercancomen/repo/macera.json"
+      },
+      {
+        "title": "Masallar",
+        "url": "https://raw.githubusercontent.com/ercancomen/repo/masallar.json"
+      },
+      {
+        "title": "Müzikal",
+        "url": "https://raw.githubusercontent.com/ercancomen/repo/muzikal.json"
+      }
+    ]
+  },
+  {
+    "name": "Anime",
+    "tabs": [
+      {
+        "title": "Aksiyon",
+        "url": "https://raw.githubusercontent.com/ercancomen/repo/animeaksiyon.json"
+      },
+      {
+        "title": "Romantik",
+        "url": "https://raw.githubusercontent.com/ercancomen/repo/animromantik.json"
+      },
+      {
+        "title": "Fantastik",
+        "url": "https://raw.githubusercontent.com/ercancomen/repo/animefantastik.json"
+      },
+      {
+        "title": "Komedi",
+        "url": "https://raw.githubusercontent.com/ercancomen/repo/animekomedi.json"
       }
     ]
   }
 ]
-
-
