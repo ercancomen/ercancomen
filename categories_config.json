@@ -1,15 +1,6 @@
 [
   {
-    "name": "Film",
-    "tabs": [
-      {
-        "title": "Yerli",
-        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/yerli.json"
-      }
-    ]
-  },
-  {
-    "name": "Dizi",
+    "name": "Yerli Dizi",
     "tabs": [
       {
         "title": "Komedi",
@@ -18,3 +9,4 @@
     ]
   }
 ]
+
