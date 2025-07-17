@@ -4,11 +4,29 @@
     "tabs": [
       {
         "title": "Yerli",
-        "url": "https://raw.githubusercontent.com/ercancomen/repo/yerli.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/yerli.json"
       },
       {
         "title": "Yabancı",
-        "url": "https://raw.githubusercontent.com/ercancomen/repo/yabanci.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/yabanci.json"
+      }
+    ]
+  },
+  {
+    "name": "Dizi",
+    "tabs": [
+      {
+        "title": "Komedi",
+        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/dizi_komedi.json"
+      }
+    ]
+  },
+  {
+    "name": "Çocuk",
+    "tabs": [
+      {
+        "title": "Çizgi Filmler",
+        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/cizgi.json"
       }
     ]
   }
