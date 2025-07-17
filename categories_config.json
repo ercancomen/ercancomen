@@ -1,12 +1,43 @@
 [
   {
-    "name": "Yerli Dizi",
+    "name": "Film",
+    "tabs": [
+      {
+        "title": "Yerli",
+        "url": "https://raw.githubusercontent.com/kullanici/repo/yerli.json"
+      },
+      {
+        "title": "Yabancı",
+        "url": "https://raw.githubusercontent.com/kullanici/repo/yabanci.json"
+      }
+    ]
+  },
+  {
+    "name": "Dizi",
     "tabs": [
       {
         "title": "Komedi",
-        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/komedi.json"
+        "url": "https://raw.githubusercontent.com/kullanici/repo/komedi.json"
+      },
+      {
+        "title": "Dram",
+        "url": "https://raw.githubusercontent.com/kullanici/repo/dram.json"
+      }
+    ]
+  },
+  {
+    "name": "Çocuk",
+    "tabs": [
+      {
+        "title": "Çizgi Filmler",
+        "url": "https://raw.githubusercontent.com/kullanici/repo/cizgifilmler.json"
+      },
+      {
+        "title": "Eğitici",
+        "url": "https://raw.githubusercontent.com/kullanici/repo/egitici.json"
       }
     ]
   }
 ]
+
 
