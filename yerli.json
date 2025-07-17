@@ -1,12 +1,7 @@
 [
   {
     "title": "Bergen",
-    "image": "https://example.com/bergen.jpg",
-    "url": "https://example.com/bergen.mp4"
-  },
-  {
-    "title": "Recep İvedik",
-    "image": "https://example.com/ivedik.jpg",
-    "url": "https://example.com/ivedik.mp4"
+    "image": "https://upload.wikimedia.org/wikipedia/tr/7/78/Bergen_film_afis.jpg",
+    "url": "https://www.w3schools.com/html/mov_bbb.mp4"
   }
 ]
