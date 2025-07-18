@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Başlangıç (Inception)",
+    "image": "https://upload.wikimedia.org/wikipedia/tr/0/03/Inception_poster.jpg",
+    "url": "https://www.youtube.com/watch?v=YoHD9XEInc0"
+  },
+  {
+    "title": "Esaretin Bedeli (The Shawshank Redemption)",
+    "image": "https://upload.wikimedia.org/wikipedia/tr/0/07/EsaretinBedeliTurkcePoster.jpg",
+    "url": "https://www.youtube.com/watch?v=6hB3S9bIaco"
+  },
+  {
+    "title": "Kara Şövalye (The Dark Knight)",
+    "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/8/8a/Dark_Knight.jpg/330px-Dark_Knight.jpg",
+    "url": "https://www.youtube.com/watch?v=EXeTwQWrcwY"
+  },
+  {
+    "title": "Yüzüklerin Efendisi: Kralın Dönüşü",
+    "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/4/4e/Y%C3%BCz%C3%BCklerin_Efendisi_-_Kral%C4%B1n_D%C3%B6n%C3%BC%C5%9F%C3%BC_afi%C5%9F.jpg/330px-Y%C3%BCz%C3%BCklerin_Efendisi_-_Kral%C4%B1n_D%C3%B6n%C3%BC%C5%9F%C3%BC_afi%C5%9F.jpg",
+    "url": "https://www.youtube.com/watch?v=r5X-hFf6Bwo"
+  },
+  {
+    "title": "Ucuz Roman (Pulp Fiction)",
+    "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/5/58/Pulp_Fiction_afis.jpg/330px-Pulp_Fiction_afis.jpg",
+    "url": "https://www.youtube.com/watch?v=s7EdQ4FqbhY"
+  },
+  {
+    "title": "Forrest Gump",
+    "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/1/13/Forrest_Gump_poster.jpg/330px-Forrest_Gump_poster.jpg",
+    "url": "https://www.youtube.com/watch?v=bLvqoHBptjg"
+  },
+  {
+    "title": "Matrix (The Matrix)",
+    "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/a/a2/TheMatrixPoster.jpg/330px-TheMatrixPoster.jpg",
+    "url": "https://www.youtube.com/watch?v=vKQi3bBA1y8"
+  },
+  {
+    "title": "İyi, Kötü ve Çirkin",
+    "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/7/77/%C4%B0yi%2C_K%C3%B6t%C3%BC_ve_%C3%87irkin_film_afi%C5%9Fi.jpg/330px-%C4%B0yi%2C_K%C3%B6t%C3%BC_ve_%C3%87irkin_film_afi%C5%9Fi.jpg",
+    "url": "https://www.youtube.com/watch?v=WCN5JJY_wiA" 
+  },
+  {
+    "title": "Ruhların Kaçışı (Spirited Away)",
+    "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/6/65/Ruhlar%C4%B1n_Ka%C3%A7%C4%B1%C5%9F%C4%B1_afi%C5%9F.jpeg/330px-Ruhlar%C4%B1n_Ka%C3%A7%C4%B1%C5%9F%C4%B1_afi%C5%9F.jpeg",
+    "url": "https://www.youtube.com/watch?v=ByXuk9QqQkk" 
+  },
+  {
+    "title": "Parazit (Parasite)",
+    "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/e/e3/Parasite_film_poster.jpg/330px-Parasite_film_poster.jpg",
+    "url": "https://www.youtube.com/watch?v=5xH0HfJHsaY"
+  },
+  {
+    "title": "Prestij (The Prestige)",
+    "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/d/d4/Prestij_film_posteri.jpg/330px-Prestij_film_posteri.jpg",
+    "url": "https://www.youtube.com/watch?v=RLtaA9f7RpI"
+  },
+  {
+    "title": "Cesur Yürek (Braveheart)",
+    "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/1/10/Braveheart_poster.jpg/330px-Braveheart_poster.jpg",
+    "url": "https://www.youtube.com/watch?v=1NJo0jxBtMo" 
+  },
+  {
+    "title": "Amelie (Le Fabuleux Destin d'Amélie Poulain)",
+    "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/1/14/Amelie_poster.jpg/330px-Amelie_poster.jpg",
+    "url": "https://www.youtube.com/watch?v=HUECWi5pX7o" 
+  },
+  {
+    "title": "Can Dostum (The Intouchables)",
+    "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/7/7f/Can_Dostum_film_afi%C5%9Fi.jpg/330px-Can_Dostum_film_afi%C5%9Fi.jpg",
+    "url": "https://www.youtube.com/watch?v=34WIbmXkewU"
+  },
+  {
+    "title": "Wall-E",
+    "image": "https://upload.wikimedia.org/wikipedia/tr/thumb/5/53/Wall-e_TR_poster.jpg/330px-Wall-e_TR_poster.jpg",
+    "url": "https://www.youtube.com/watch?v=AnihH2mMKKA" 
+  }
+]
