@@ -4,23 +4,23 @@
     "tabs": [
       {
         "title": "Yerli",
-        "url": "https://raw.githubusercontent.com/ercancomen/repo/yerli.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/yerli.json"
       },
       {
         "title": "Yabancı",
-        "url": "https://raw.githubusercontent.com/ercancomen/repo/yabanci.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/yabanci.json"
       },
       {
         "title": "Aksiyon",
-        "url": "https://raw.githubusercontent.com/ercancomen/repo/aksiyon.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/aksiyon.json"
       },
       {
         "title": "Romantik",
-        "url": "https://raw.githubusercontent.com/ercancomen/repo/romantik.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/romantik.json"
       },
       {
         "title": "Bilim Kurgu",
-        "url": "https://raw.githubusercontent.com/ercancomen/repo/bilimkurgu.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/bilimkurgu.json"
       }
     ]
   },
@@ -33,19 +33,19 @@
       },
       {
         "title": "Dram",
-        "url": "https://raw.githubusercontent.com/ercancomen/repo/dram.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/dram.json"
       },
       {
         "title": "Polisiye",
-        "url": "https://raw.githubusercontent.com/ercancomen/repo/polisiye.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/polisiye.json"
       },
       {
         "title": "Fantastik",
-        "url": "https://raw.githubusercontent.com/ercancomen/repo/fantastik.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/fantastik.json"
       },
       {
         "title": "Belgesel",
-        "url": "https://raw.githubusercontent.com/ercancomen/repo/belgesel.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/belgesel.json"
       }
     ]
   },
@@ -54,23 +54,23 @@
     "tabs": [
       {
         "title": "Çizgi Filmler",
-        "url": "https://raw.githubusercontent.com/ercancomen/repo/cizgifilmler.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/cizgifilmler.json"
       },
       {
         "title": "Eğitici",
-        "url": "https://raw.githubusercontent.com/ercancomen/repo/egitici.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/egitici.json"
       },
       {
         "title": "Macera",
-        "url": "https://raw.githubusercontent.com/ercancomen/repo/macera.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/macera.json"
       },
       {
         "title": "Masallar",
-        "url": "https://raw.githubusercontent.com/ercancomen/repo/masallar.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/masallar.json"
       },
       {
         "title": "Müzikal",
-        "url": "https://raw.githubusercontent.com/ercancomen/repo/muzikal.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/muzikal.json"
       }
     ]
   },
@@ -79,19 +79,19 @@
     "tabs": [
       {
         "title": "Aksiyon",
-        "url": "https://raw.githubusercontent.com/ercancomen/repo/animeaksiyon.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/animeaksiyon.json"
       },
       {
         "title": "Romantik",
-        "url": "https://raw.githubusercontent.com/ercancomen/repo/animromantik.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/animromantik.json"
       },
       {
         "title": "Fantastik",
-        "url": "https://raw.githubusercontent.com/ercancomen/repo/animefantastik.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/animefantastik.json"
       },
       {
         "title": "Komedi",
-        "url": "https://raw.githubusercontent.com/ercancomen/repo/animekomedi.json"
+        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/animekomedi.json"
       }
     ]
   }
