@@ -4,5 +4,12 @@
     "title": "Akit Tv",
     "image": "https://upload.wikimedia.org/wikipedia/tr/c/cf/Akit_TV.png",
     "url": "https://akittv-live.ercdn.net/akittv/akittv.m3u8" 
+  },
+
+
+  {
+    "title": "24 Tv",
+    "image": "  https://upload.wikimedia.org/wikipedia/tr/e/e9/Kanal_24.png",
+    "url": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8" 
   }
 ]
