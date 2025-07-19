@@ -30,9 +30,15 @@
 
   
 {
-        "name": "Komedi",
+        "name": "Canlı Tv",
+  "tabs" :[
+    {
+      "title" : "Yerel Kanallar",
         "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/canlitv.json"
-      },
+      } 
+  ]
+}
+  ,
 
 
 
