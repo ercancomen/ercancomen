@@ -35,8 +35,12 @@
     {
       "title" : "Yerel Kanallar",
         "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/canlitv.json"
-      } 
-  ]
+    },
+    {
+  "title" : "Ukrayna",
+    "url" : "https://raw.githubusercontent.com/ercancomen/ercancomen/main/ukrayna.json"
+    }
+      ]
 }
   ,
 
