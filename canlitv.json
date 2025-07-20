@@ -1,19 +1,8 @@
-
 [
   {
     "title": "4U TV",
     "image": "https://i.imgur.com/PexhKwp.png",
     "url": "https://hls.4utv.live/hls/stream.m3u8"
-  },
-  {
-    "title": "24 TV",
-    "image": "https://i.imgur.com/8FO41es.png",
-    "url": "http://185.234.111.229:8000/play/a059"
-  },
-  {
-    "title": "360",
-    "image": "https://i.imgur.com/agn47sQ.png",
-    "url": "http://185.234.111.229:8000/play/a05a"
   },
   {
     "title": "A2TV",
@@ -24,12 +13,7 @@
     "title": "Afroturk TV",
     "image": "https://i.imgur.com/fWlLvRA.png",
     "url": "https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8"
-  },
-  {
-    "title": "Agro TV",
-    "image": "https://i.imgur.com/ls9NLa4.png",
-    "url": "http://185.234.111.229:8000/play/a011"
-  },
+  }
   {
     "title": "A Haber",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",
@@ -43,7 +27,7 @@
   {
     "title": "Akit TV",
     "image": "https://i.imgur.com/oGto929.png",
-    "url": "http://185.234.111.229:8000/play/a05m"
+    "url": "https://akittv-live.ercdn.net/akittv/akittv.m3u8"
   },
   {
     "title": "Aksu TV",
@@ -51,5 +35,3 @@
     "url": "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8"
   }
 ]
-
-
