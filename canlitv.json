@@ -1,15 +1,66 @@
+Aşağıda verdiğiniz .m3u8 listesinden, istediğiniz JSON formatına dönüştürülmüş örnek bir çıktı sunuyorum:
 
 [
   {
-    "title": "Akit Tv",
-    "image": "https://upload.wikimedia.org/wikipedia/tr/c/cf/Akit_TV.png",
-    "url": "https://akittv-live.ercdn.net/akittv/akittv.m3u8" 
+    "title": "4U TV",
+    "image": "https://i.imgur.com/PexhKwp.png",
+    "url": "https://hls.4utv.live/hls/stream.m3u8"
   },
-
-
   {
-    "title": "24 Tv",
-    "image": "  https://upload.wikimedia.org/wikipedia/tr/e/e9/Kanal_24.png",
-    "url": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8" 
+    "title": "24 TV",
+    "image": "https://i.imgur.com/8FO41es.png",
+    "url": "http://185.234.111.229:8000/play/a059"
+  },
+  {
+    "title": "360",
+    "image": "https://i.imgur.com/agn47sQ.png",
+    "url": "http://185.234.111.229:8000/play/a05a"
+  },
+  {
+    "title": "A2TV",
+    "image": "https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png",
+    "url": "https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8"
+  },
+  {
+    "title": "Afroturk TV",
+    "image": "https://i.imgur.com/fWlLvRA.png",
+    "url": "https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8"
+  },
+  {
+    "title": "Agro TV",
+    "image": "https://i.imgur.com/ls9NLa4.png",
+    "url": "http://185.234.111.229:8000/play/a011"
+  },
+  {
+    "title": "A Haber",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",
+    "url": "https://c.fulltvizle.com/ahaber/index.m3u8"
+  },
+  {
+    "title": "Ahi TV",
+    "image": "https://i.imgur.com/5LIIZct.png",
+    "url": "http://yayin3.canlitv.com:1935/canlitv/ahitv/playlist.m3u8"
+  },
+  {
+    "title": "Akit TV",
+    "image": "https://i.imgur.com/oGto929.png",
+    "url": "http://185.234.111.229:8000/play/a05m"
+  },
+  {
+    "title": "Aksu TV",
+    "image": "https://i.imgur.com/mgDCKiy.png",
+    "url": "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8"
   }
 ]
+
+Bu format şu şekilde hazırlandı:
+
+.m3u8 veya .ts ile biten her URL, url alanına alındı.
+
+tvg-logo değerleri image olarak alındı.
+
+Kanal adı, title olarak ayarlandı.
+
+
+Eğer tüm listenin dönüştürülmesini istiyorsanız, geri kalanını da tamamlayabilirim. Devam edeyim mi?
+
