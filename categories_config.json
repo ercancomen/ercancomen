@@ -28,20 +28,60 @@
 
 
 
-  
-{
-        "name": "Canlı Tv",
-  "tabs" :[
-    {
-      "title" : "Yerel Kanallar",
-        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/canlitv.json"
-    },
-    {
-  "title" : "Ukrayna",
-    "url" : "https://raw.githubusercontent.com/ercancomen/ercancomen/main/ukrayna.json"
-    }
-      ]
-}
+ {
+    "name": "Canlı TV",
+    "tabs": [
+      { "title": "Türkiye", "url": "https://iptv-org.github.io/iptv/countries/tr.m3u" },
+      { "title": "ABD", "url": "https://iptv-org.github.io/iptv/countries/us.m3u" },
+      { "title": "Almanya", "url": "https://iptv-org.github.io/iptv/countries/de.m3u" },
+      { "title": "Fransa", "url": "https://iptv-org.github.io/iptv/countries/fr.m3u" },
+      { "title": "İngiltere", "url": "https://iptv-org.github.io/iptv/countries/gb.m3u" },
+      { "title": "İspanya", "url": "https://iptv-org.github.io/iptv/countries/es.m3u" },
+      { "title": "İtalya", "url": "https://iptv-org.github.io/iptv/countries/it.m3u" },
+      { "title": "Hollanda", "url": "https://iptv-org.github.io/iptv/countries/nl.m3u" },
+      { "title": "Belçika", "url": "https://iptv-org.github.io/iptv/countries/be.m3u" },
+      { "title": "Portekiz", "url": "https://iptv-org.github.io/iptv/countries/pt.m3u" },
+      { "title": "Brezilya", "url": "https://iptv-org.github.io/iptv/countries/br.m3u" },
+      { "title": "Arjantin", "url": "https://iptv-org.github.io/iptv/countries/ar.m3u" },
+      { "title": "Rusya", "url": "https://iptv-org.github.io/iptv/countries/ru.m3u" },
+      { "title": "Çin", "url": "https://iptv-org.github.io/iptv/countries/cn.m3u" },
+      { "title": "Japonya", "url": "https://iptv-org.github.io/iptv/countries/jp.m3u" },
+      { "title": "Güney Kore", "url": "https://iptv-org.github.io/iptv/countries/kr.m3u" },
+      { "title": "Hindistan", "url": "https://iptv-org.github.io/iptv/countries/in.m3u" },
+      { "title": "Pakistan", "url": "https://iptv-org.github.io/iptv/countries/pk.m3u" },
+      { "title": "Afganistan", "url": "https://iptv-org.github.io/iptv/countries/af.m3u" },
+      { "title": "İran", "url": "https://iptv-org.github.io/iptv/countries/ir.m3u" },
+      { "title": "Azerbaycan", "url": "https://iptv-org.github.io/iptv/countries/az.m3u" },
+      { "title": "Gürcistan", "url": "https://iptv-org.github.io/iptv/countries/ge.m3u" },
+      { "title": "Yunanistan", "url": "https://iptv-org.github.io/iptv/countries/gr.m3u" },
+      { "title": "Norveç", "url": "https://iptv-org.github.io/iptv/countries/no.m3u" },
+      { "title": "İsveç", "url": "https://iptv-org.github.io/iptv/countries/se.m3u" },
+      { "title": "Danimarka", "url": "https://iptv-org.github.io/iptv/countries/dk.m3u" },
+      { "title": "Finlandiya", "url": "https://iptv-org.github.io/iptv/countries/fi.m3u" },
+      { "title": "Polonya", "url": "https://iptv-org.github.io/iptv/countries/pl.m3u" },
+      { "title": "Ukrayna", "url": "https://iptv-org.github.io/iptv/countries/ua.m3u" },
+      { "title": "Macaristan", "url": "https://iptv-org.github.io/iptv/countries/hu.m3u" },
+      { "title": "Romanya", "url": "https://iptv-org.github.io/iptv/countries/ro.m3u" },
+      { "title": "Bulgaristan", "url": "https://iptv-org.github.io/iptv/countries/bg.m3u" },
+      { "title": "Sırbistan", "url": "https://iptv-org.github.io/iptv/countries/rs.m3u" },
+      { "title": "Bosna", "url": "https://iptv-org.github.io/iptv/countries/ba.m3u" },
+      { "title": "Arnavutluk", "url": "https://iptv-org.github.io/iptv/countries/al.m3u" },
+      { "title": "Kosova", "url": "https://iptv-org.github.io/iptv/countries/xk.m3u" },
+      { "title": "İzlanda", "url": "https://iptv-org.github.io/iptv/countries/is.m3u" },
+      { "title": "Meksika", "url": "https://iptv-org.github.io/iptv/countries/mx.m3u" },
+      { "title": "Kanada", "url": "https://iptv-org.github.io/iptv/countries/ca.m3u" },
+      { "title": "Şili", "url": "https://iptv-org.github.io/iptv/countries/cl.m3u" },
+      { "title": "Peru", "url": "https://iptv-org.github.io/iptv/countries/pe.m3u" },
+      { "title": "Kolombiya", "url": "https://iptv-org.github.io/iptv/countries/co.m3u" },
+      { "title": "Venezuela", "url": "https://iptv-org.github.io/iptv/countries/ve.m3u" },
+      { "title": "Küba", "url": "https://iptv-org.github.io/iptv/countries/cu.m3u" },
+      { "title": "Mısır", "url": "https://iptv-org.github.io/iptv/countries/eg.m3u" },
+      { "title": "Tunus", "url": "https://iptv-org.github.io/iptv/countries/tn.m3u" },
+      { "title": "Fas", "url": "https://iptv-org.github.io/iptv/countries/ma.m3u" },
+      { "title": "Suudi Arabistan", "url": "https://iptv-org.github.io/iptv/countries/sa.m3u" },
+      { "title": "BAE", "url": "https://iptv-org.github.io/iptv/countries/ae.m3u" }
+    ]
+  }
   ,
 
 
