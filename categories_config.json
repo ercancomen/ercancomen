@@ -1,4 +1,34 @@
 [
+
+
+  {
+    "name": "🎬 Özel Film Arşivi",
+    "tabs": [
+      {
+        "title": "Seçtiklerim",
+        "url": "ercancomen/ercancomen/main/film_arsivi.json"
+      }
+    ]
+  },
+  {
+    "name": "📺 Canlı TV",
+    "tabs": [
+      {
+        "title": "Kanallar",
+        "url": "ercancomen/ercancomen/main/canli_tv.m3u"
+      }
+    ]
+  },
+
+
+
+
+  
+
+
+
+
+  
   {
     "name": "🎬 Popüler Filmler",
     "tabs": [
