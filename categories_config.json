@@ -1,161 +1,36 @@
 [
   {
-    "name": "Film",
+    "name": "🎬 Popüler Filmler",
     "tabs": [
       {
-        "title": "Yerli",
-        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/yerli.json"
-      },
-      {
-        "title": "Yabancı",
-        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/yabanci.json"
-      },
-      {
         "title": "Aksiyon",
-        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/aksiyon.json"
-      },
-      {
-        "title": "Romantik",
-        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/romantik.json"
+        "url": "https://www.hdfilmcehennemi.nl/kategori/aksiyon-izle-1/"
       },
       {
         "title": "Bilim Kurgu",
-        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/bilimkurgu.json"
-      }
-    ]
-  },
-
-
-
-
- {
-    "name": "Canlı TV",
-    "tabs": [
-      { "title": "Türkiye", "url": "https://iptv-org.github.io/iptv/countries/tr.m3u" },
-      { "title": "ABD", "url": "https://iptv-org.github.io/iptv/countries/us.m3u" },
-      { "title": "Almanya", "url": "https://iptv-org.github.io/iptv/countries/de.m3u" },
-      { "title": "Fransa", "url": "https://iptv-org.github.io/iptv/countries/fr.m3u" },
-      { "title": "İngiltere", "url": "https://iptv-org.github.io/iptv/countries/gb.m3u" },
-      { "title": "İspanya", "url": "https://iptv-org.github.io/iptv/countries/es.m3u" },
-      { "title": "İtalya", "url": "https://iptv-org.github.io/iptv/countries/it.m3u" },
-      { "title": "Hollanda", "url": "https://iptv-org.github.io/iptv/countries/nl.m3u" },
-      { "title": "Belçika", "url": "https://iptv-org.github.io/iptv/countries/be.m3u" },
-      { "title": "Portekiz", "url": "https://iptv-org.github.io/iptv/countries/pt.m3u" },
-      { "title": "Brezilya", "url": "https://iptv-org.github.io/iptv/countries/br.m3u" },
-      { "title": "Arjantin", "url": "https://iptv-org.github.io/iptv/countries/ar.m3u" },
-      { "title": "Rusya", "url": "https://iptv-org.github.io/iptv/countries/ru.m3u" },
-      { "title": "Çin", "url": "https://iptv-org.github.io/iptv/countries/cn.m3u" },
-      { "title": "Japonya", "url": "https://iptv-org.github.io/iptv/countries/jp.m3u" },
-      { "title": "Güney Kore", "url": "https://iptv-org.github.io/iptv/countries/kr.m3u" },
-      { "title": "Hindistan", "url": "https://iptv-org.github.io/iptv/countries/in.m3u" },
-      { "title": "Pakistan", "url": "https://iptv-org.github.io/iptv/countries/pk.m3u" },
-      { "title": "Afganistan", "url": "https://iptv-org.github.io/iptv/countries/af.m3u" },
-      { "title": "İran", "url": "https://iptv-org.github.io/iptv/countries/ir.m3u" },
-      { "title": "Azerbaycan", "url": "https://iptv-org.github.io/iptv/countries/az.m3u" },
-      { "title": "Gürcistan", "url": "https://iptv-org.github.io/iptv/countries/ge.m3u" },
-      { "title": "Yunanistan", "url": "https://iptv-org.github.io/iptv/countries/gr.m3u" },
-      { "title": "Norveç", "url": "https://iptv-org.github.io/iptv/countries/no.m3u" },
-      { "title": "İsveç", "url": "https://iptv-org.github.io/iptv/countries/se.m3u" },
-      { "title": "Danimarka", "url": "https://iptv-org.github.io/iptv/countries/dk.m3u" },
-      { "title": "Finlandiya", "url": "https://iptv-org.github.io/iptv/countries/fi.m3u" },
-      { "title": "Polonya", "url": "https://iptv-org.github.io/iptv/countries/pl.m3u" },
-      { "title": "Ukrayna", "url": "https://iptv-org.github.io/iptv/countries/ua.m3u" },
-      { "title": "Macaristan", "url": "https://iptv-org.github.io/iptv/countries/hu.m3u" },
-      { "title": "Romanya", "url": "https://iptv-org.github.io/iptv/countries/ro.m3u" },
-      { "title": "Bulgaristan", "url": "https://iptv-org.github.io/iptv/countries/bg.m3u" },
-      { "title": "Sırbistan", "url": "https://iptv-org.github.io/iptv/countries/rs.m3u" },
-      { "title": "Bosna", "url": "https://iptv-org.github.io/iptv/countries/ba.m3u" },
-      { "title": "Arnavutluk", "url": "https://iptv-org.github.io/iptv/countries/al.m3u" },
-      { "title": "Kosova", "url": "https://iptv-org.github.io/iptv/countries/xk.m3u" },
-      { "title": "İzlanda", "url": "https://iptv-org.github.io/iptv/countries/is.m3u" },
-      { "title": "Meksika", "url": "https://iptv-org.github.io/iptv/countries/mx.m3u" },
-      { "title": "Kanada", "url": "https://iptv-org.github.io/iptv/countries/ca.m3u" },
-      { "title": "Şili", "url": "https://iptv-org.github.io/iptv/countries/cl.m3u" },
-      { "title": "Peru", "url": "https://iptv-org.github.io/iptv/countries/pe.m3u" },
-      { "title": "Kolombiya", "url": "https://iptv-org.github.io/iptv/countries/co.m3u" },
-      { "title": "Venezuela", "url": "https://iptv-org.github.io/iptv/countries/ve.m3u" },
-      { "title": "Küba", "url": "https://iptv-org.github.io/iptv/countries/cu.m3u" },
-      { "title": "Mısır", "url": "https://iptv-org.github.io/iptv/countries/eg.m3u" },
-      { "title": "Tunus", "url": "https://iptv-org.github.io/iptv/countries/tn.m3u" },
-      { "title": "Fas", "url": "https://iptv-org.github.io/iptv/countries/ma.m3u" },
-      { "title": "Suudi Arabistan", "url": "https://iptv-org.github.io/iptv/countries/sa.m3u" },
-      { "title": "BAE", "url": "https://iptv-org.github.io/iptv/countries/ae.m3u" }
-    ]
-  }
-  ,
-
-
-
-  
-  
-  {
-    "name": "Dizi",
-    "tabs": [
-      {
-        "title": "Komedi",
-        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/komedi.json"
+        "url": "https://www.hdfilmcehennemi.nl/kategori/bilim-kurgu-izle-1/"
       },
       {
-        "title": "Dram",
-        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/dram.json"
-      },
-      {
-        "title": "Polisiye",
-        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/polisiye.json"
-      },
-      {
-        "title": "Fantastik",
-        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/fantastik.json"
-      },
-      {
-        "title": "Belgesel",
-        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/belgesel.json"
+        "title": "Animasyon",
+        "url": "https://www.hdfilmcehennemi.nl/kategori/animasyon-izle-1/"
       }
     ]
   },
   {
-    "name": "Çocuk",
+    "name": "📺 Canlı TV",
     "tabs": [
       {
-        "title": "Çizgi Filmler",
-        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/cizgifilmler.json"
-      },
-      {
-        "title": "Eğitici",
-        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/egitici.json"
-      },
-      {
-        "title": "Macera",
-        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/macera.json"
-      },
-      {
-        "title": "Masallar",
-        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/masallar.json"
-      },
-      {
-        "title": "Müzikal",
-        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/muzikal.json"
+        "title": "Ulusal Kanallar",
+        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/canli_tv.m3u"
       }
     ]
   },
   {
-    "name": "Anime",
+    "name": "🚀 Test ve Örnekler",
     "tabs": [
       {
-        "title": "Aksiyon",
-        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/animeaksiyon.json"
-      },
-      {
-        "title": "Romantik",
-        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/animromantik.json"
-      },
-      {
-        "title": "Fantastik",
-        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/animefantastik.json"
-      },
-      {
-        "title": "Komedi",
-        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/animekomedi.json"
+        "title": "Hızlı Oynat (Örnek)",
+        "url": "sample_movies"
       }
     ]
   }
