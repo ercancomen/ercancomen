@@ -1,6 +1,4 @@
 [
-
-
   {
     "name": "🎬 Özel Film Arşivi",
     "tabs": [
@@ -16,51 +14,6 @@
       {
         "title": "Kanallar",
         "url": "ercancomen/ercancomen/main/canli_tv.m3u"
-      }
-    ]
-  },
-
-
-
-
-  
-
-
-
-
-  
-  {
-    "name": "🎬 Popüler Filmler",
-    "tabs": [
-      {
-        "title": "Aksiyon",
-        "url": "https://www.hdfilmcehennemi.nl/kategori/aksiyon-izle-1/"
-      },
-      {
-        "title": "Bilim Kurgu",
-        "url": "https://www.hdfilmcehennemi.nl/kategori/bilim-kurgu-izle-1/"
-      },
-      {
-        "title": "Animasyon",
-        "url": "https://www.hdfilmcehennemi.nl/kategori/animasyon-izle-1/"
-      }
-    ]
-  },
-  {
-    "name": "📺 Canlı TV",
-    "tabs": [
-      {
-        "title": "Ulusal Kanallar",
-        "url": "https://raw.githubusercontent.com/ercancomen/ercancomen/main/canli_tv.m3u"
-      }
-    ]
-  },
-  {
-    "name": "🚀 Test ve Örnekler",
-    "tabs": [
-      {
-        "title": "Hızlı Oynat (Örnek)",
-        "url": "sample_movies"
       }
     ]
   }
